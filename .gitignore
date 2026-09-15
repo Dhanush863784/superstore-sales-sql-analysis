@@ -1,0 +1,16 @@
+# SQL Server
+*.mdf
+*.ndf
+*.ldf
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# SSMS
+*.user
+*.suo
